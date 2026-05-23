@@ -77,9 +77,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 To run both the frontend development server and the mock API server concurrently:
 
-\`\`\`bash
+```bash
 npm run start
-\`\`\`
+```
 
 This command will:
 *   Start the React development server (usually on `http://localhost:5173`).
@@ -90,13 +90,13 @@ This command will:
 You can also run the frontend and backend servers independently:
 
 *   **Frontend Development Server:**
-    \`\`\`bash
+    ```bash
     npm run dev
-    \`\`\`
+    ```
 *   **Mock API Server:**
-    \`\`\`bash
+    ```bash
     npm run server
-    \`\`\`
+    ```
 
 ## Project Structure Overview
 
@@ -114,6 +114,6 @@ You can also run the frontend and backend servers independently:
 
 To run ESLint for code quality checks:
 
-\`\`\`bash
+```bash
 npm run lint
-\`\`\`
+```
