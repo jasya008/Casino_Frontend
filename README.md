@@ -1,4 +1,4 @@
-# Casino Project
+# Casino Project (Frontend side)
 
 This is a React-based web application for a casino platform, featuring game listings, user authentication, and internationalization.
 
